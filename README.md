@@ -1,2 +1,3 @@
-# pratice
-test
+<?php
+echo "hello world";
+?>
